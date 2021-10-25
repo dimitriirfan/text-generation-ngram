@@ -9,3 +9,6 @@ In this notebook I will train my N Gram model to generate a word that can talk l
 ```
 'what art thou come why my cheese my digestion why hast thou thus adjournd the graces for his merits due being all to'
 ```
+
+## References
+* N-gram Language Models https://web.stanford.edu/~jurafsky/slp3/3.pdf
